@@ -1,0 +1,45 @@
+-- ftd.row:
+spacing.fixed.px: 125
+padding-left.px: 20
+padding-top.px: 20
+
+-- ftd.text: Extra Large Button
+region: h1
+border-width.px: 10
+border-radius.px: 5
+color: white
+background.solid: turquoise
+border-color: turquoise
+
+
+-- ftd.text: Large Button
+region: h2
+border-width.px: 10
+border-radius.px: 5
+color: white
+background.solid: turquoise
+border-color: turquoise
+
+
+-- ftd.text: Medium Button
+region: h3
+border-width.px: 10
+border-radius.px: 5
+color: white
+background.solid: turquoise
+border-color: turquoise
+
+
+-- ftd.text: Small Button
+region: h4
+border-width.px: 10
+border-radius.px: 5
+color: white
+background.solid: turquoise
+border-color: turquoise
+
+-- end: ftd.row
+
+
+
+
